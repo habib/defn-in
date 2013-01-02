@@ -1,6 +1,6 @@
 html {
-  border-top: solid 10px #367540;
-  /* border-top: solid 10px #B83000; */
+  /* border-top: solid 10px #367540; */
+  border-top: solid 10px #B83000;
 }
 
 body {
@@ -38,8 +38,8 @@ header, footer, section, article {
   line-height: 33px;
 }
 a {
-  color: #367540;
-  /* color: #b83000; */
+  /* color: #367540; */
+  color: #b83000;
 }
 h1 a {
   color: black;
@@ -137,9 +137,9 @@ body > footer {
 }
 
 .highlight {
-  color: #367540;
+  /* color: #367540; */
   text-decoration: bold;
-  /* color: #B83000; */
+  color: #B83000;
   font-size: xx-large;
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }

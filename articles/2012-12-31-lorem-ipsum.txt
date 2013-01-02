@@ -1,6 +1,0 @@
----
-title: Lorem Ipsum
-date: 31/12/2012
-
-Once upon a time...
-
