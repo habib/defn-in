@@ -140,6 +140,8 @@ body > footer {
   color: #367540;
   text-decoration: bold;
   /* color: #B83000; */
+  font-size: xx-large;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
 #article_header {
